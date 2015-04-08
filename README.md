@@ -1,6 +1,4 @@
-Paul Senatillaka
-
-Project Course work for UML Organization of Programming Languages
+Project for UML Organization of Programming Languages
 
 ##About
 
