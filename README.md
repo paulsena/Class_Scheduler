@@ -1,8 +1,8 @@
 Paul Senatillaka
 Project Course work for UML Organization of Programming Languages
 
-(https://raw.githubusercontent.com/paulsena/Class_Scheduler/master/ss2.jpg)
-(https://raw.githubusercontent.com/paulsena/Class_Scheduler/master/ss1.jpg)
+![alt](https://raw.githubusercontent.com/paulsena/Class_Scheduler/master/ss2.jpg)
+![alt](https://raw.githubusercontent.com/paulsena/Class_Scheduler/master/ss1.jpg)
 
 Files:
 classscheduler-parser.rkt  - Main work hourse of parsing html and creating permutations of schedules.
