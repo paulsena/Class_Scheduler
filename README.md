@@ -23,4 +23,4 @@ Load the webserver code and run. A browser window will open shortly where you ca
 
 ##Diagram:
 
-(https://raw.githubusercontent.com/paulsena/Class_Scheduler/master/ps-diagram.jpg)
+![](https://raw.githubusercontent.com/paulsena/Class_Scheduler/master/ps-diagram.jpg)
