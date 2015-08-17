@@ -1,4 +1,5 @@
-Project for UML Organization of Programming Languages
+Project for my Organization of Programming Languages class at UMass Lowell.
+May 2011
 
 ##About
 
